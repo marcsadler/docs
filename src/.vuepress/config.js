@@ -76,6 +76,10 @@ export default {
             link: '/docs/firmware/known-issues',
           },
           {
+            text: 'Depthcharge',
+            link: '/docs/firmware/depthcharge',
+          },
+          {
             text: 'Developer Mode',
             link: '/docs/firmware/developer-mode',
             collapsible: true,
